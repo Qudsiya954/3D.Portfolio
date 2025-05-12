@@ -1,10 +1,10 @@
 # PORTFOLIO WEBSITE WITH ADVANCED ANIMATIONS
-"Company": CODTECH IT SOLUTIONS
-"NAME": MUZAMIL AHMED
-"INTERN ID": CT04DL559
-"DOMAIN": FRONT END DEVELOPMENT
-"DURATION": 4 WEEKS
-"MENTOR": NEEL SANTOSH
+-"Company": CODTECH IT SOLUTIONS
+-"NAME": MUZAMIL AHMED
+-"INTERN ID": CT04DL559
+-"DOMAIN": FRONT END DEVELOPMENT
+-"DURATION": 4 WEEKS
+-"MENTOR": NEEL SANTOSH
 
 
 🎯 Project Description: 3D Portfolio Website using React + Vite
@@ -107,7 +107,8 @@ This template uses @vitejs/plugin-react for Fast Refresh via Babel.
 
 For a TypeScript version, refer to the official Vite + React + TS template.
 
-
+#DEMO VIDEO
+[▶️ Watch Demo Video](public/assets/Recording%202025-05-12%20210025.mp4)
 
 
 
