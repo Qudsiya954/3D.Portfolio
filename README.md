@@ -48,8 +48,7 @@ The goal of this project is not just to build a portfolio, but to demonstrate th
 #OUTPUT
 ![Image](https://github.com/user-attachments/assets/8a10d10c-9f70-48f7-9360-789845dfc200)
 
-#WATCH DEMO VIDEO
-(public/assets/1.mp4)
+
 
 ## 📁 Features
 
@@ -80,8 +79,8 @@ The goal of this project is not just to build a portfolio, but to demonstrate th
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/3d-portfolio.git
-cd 3d-portfolio
+git clone https://github.com/Qudsiya954/3D.Portfolio.git
+cd 3D.Portfolio
 
 # Install dependencies
 npm install
