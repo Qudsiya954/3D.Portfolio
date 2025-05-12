@@ -51,6 +51,64 @@ The goal of this project is not just to build a portfolio, but to demonstrate th
 #WATCH DEMO VIDEO
 (public/assets/1.mp4)
 
+## 📁 Features
+
+- ⚛️ Built with **React + Vite** for fast development and hot module reloading
+- 🎨 Custom responsive design using **Tailwind CSS**
+- 🧑‍🚀 Integrated 3D model (`.glb`) using **react-three/fiber** and **@react-three/drei**
+- 🌙 Parallax background effects
+- 📱 Fully responsive for mobile and desktop
+- 🧹 Clean and organized folder structure
+- 🛠️ ESLint for code quality
+
+---
+
+## 🔧 Tech Stack
+
+- **React**
+- **Vite**
+- **React Three Fiber**
+- **@react-three/drei**
+- **Tailwind CSS**
+- **Framer Motion**
+- **Three.js**
+- **React Responsive**
+- **Maath (Easing)**
+
+---
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/3d-portfolio.git
+cd 3d-portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+📁 Folder Structure
+```bash
+src/
+├── assets/             # Images, 3D models
+├── components/         # Reusable components (HeroText, Astronaut, etc.)
+├── sections/           # Page sections (Hero, About, Contact)
+├── App.jsx             # Root component
+├── main.jsx            # App entry point
+```
+🧑‍💻 Author
+Qudsiya Siddique
+Computer Engineering Student | Web Developer | AI/ML Enthusiast
+
+📢 Notes
+This template uses @vitejs/plugin-react for Fast Refresh via Babel.
+
+For a TypeScript version, refer to the official Vite + React + TS template.
+
+
+
 
 
 
