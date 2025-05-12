@@ -46,6 +46,7 @@ The goal of this project is not just to build a portfolio, but to demonstrate th
 
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/8a10d10c-9f70-48f7-9360-789845dfc200)
 
 
 
